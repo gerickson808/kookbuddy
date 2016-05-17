@@ -15,5 +15,7 @@ module.exports = {
     "clientID": "INSERT_GOOGLE_CLIENTID_HERE",
     "clientSecret": "INSERT_GOOGLE_CLIENT_SECRET_HERE",
     "callbackURL": "INSERT_GOOGLE_CALLBACK_HERE"
-  }
+  },
+  "API_SECRET": "2ecab481e70a0118089cc52e8ee3ffc9",
+  "API_KEY": "8c8c4bce98ff96409711352d4a4dd4b1"
 };
